@@ -71,6 +71,3 @@ The internship certificate is available in the "docs/" folder.
 
 
 
----
-
-This project was created as part of my UI/UX internship to practise user-centred design, wireframing, and interactive prototyping.
